@@ -1,11 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+ <script src="https://kit.fontawesome.com/6107703ebe.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="style.css">
+  <title>Search Films</title>
 </head>
 <body>
-  
+  <header>
+    <h1> Search Films </h1>
+    <input type="text" placeholder="Digite seu filme" id="name-films"> <i class="fa-solid fa-magnifying-glass" id="search"></i>
+    <p id="error-message"></p>
+</header>
+
+<div id="card-films-list">
+  <div id="card-films"></div>
+</div>
+  <script src="script.js"></script>
 </body>
 </html>
