@@ -47,3 +47,7 @@ Esse foi meu quarto projeto e o primeiro consumindo uma API externa. Durante o d
 - Evento keydown para buscar ao pressionar Enter
 - Grid responsivo com media queries
 - autocomplete off para melhor experiência do usuário
+
+
+### Acesse o projeto
+- Link: https://buscardor-de-filmes.netlify.app/
